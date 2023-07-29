@@ -1,0 +1,40 @@
+*
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: tomato;
+}
+h1{
+    text-align: center;
+    font-size: xx-large;
+    color: aqua;
+}
+h2{
+    text-align: center;
+    font-size: x-large;
+    color: azure;
+}
+h3{
+    text-align: center;
+    font-size: medium;
+    color: blue;
+}
+h4{
+    text-align: center;
+    font-size: small;
+    color: blueviolet;
+}
+h5{
+    text-align: center;
+    font-size: smaller;
+    color: beige;
+}
+h6{
+    text-align: center;
+    font-size: x-small;
+    color: brown;
+}
+p{
+    text-align: center;
+    font-size: xx-small;
+    color: aqua;
+}   
